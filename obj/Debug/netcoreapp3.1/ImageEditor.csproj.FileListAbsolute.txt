@@ -1,0 +1,16 @@
+C:\Users\Jerome\Source\Repos\ImageEditor\bin\Debug\netcoreapp3.1\ImageEditor.exe
+C:\Users\Jerome\Source\Repos\ImageEditor\bin\Debug\netcoreapp3.1\ImageEditor.deps.json
+C:\Users\Jerome\Source\Repos\ImageEditor\bin\Debug\netcoreapp3.1\ImageEditor.runtimeconfig.json
+C:\Users\Jerome\Source\Repos\ImageEditor\bin\Debug\netcoreapp3.1\ImageEditor.runtimeconfig.dev.json
+C:\Users\Jerome\Source\Repos\ImageEditor\bin\Debug\netcoreapp3.1\ImageEditor.dll
+C:\Users\Jerome\Source\Repos\ImageEditor\bin\Debug\netcoreapp3.1\ImageEditor.pdb
+C:\Users\Jerome\Source\Repos\ImageEditor\obj\Debug\netcoreapp3.1\ImageEditor.csproj.AssemblyReference.cache
+C:\Users\Jerome\Source\Repos\ImageEditor\obj\Debug\netcoreapp3.1\ImageEditor.Form1.resources
+C:\Users\Jerome\Source\Repos\ImageEditor\obj\Debug\netcoreapp3.1\ImageEditor.csproj.GenerateResource.cache
+C:\Users\Jerome\Source\Repos\ImageEditor\obj\Debug\netcoreapp3.1\ImageEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jerome\Source\Repos\ImageEditor\obj\Debug\netcoreapp3.1\ImageEditor.AssemblyInfoInputs.cache
+C:\Users\Jerome\Source\Repos\ImageEditor\obj\Debug\netcoreapp3.1\ImageEditor.AssemblyInfo.cs
+C:\Users\Jerome\Source\Repos\ImageEditor\obj\Debug\netcoreapp3.1\ImageEditor.csproj.CoreCompileInputs.cache
+C:\Users\Jerome\Source\Repos\ImageEditor\obj\Debug\netcoreapp3.1\ImageEditor.dll
+C:\Users\Jerome\Source\Repos\ImageEditor\obj\Debug\netcoreapp3.1\ImageEditor.pdb
+C:\Users\Jerome\Source\Repos\ImageEditor\obj\Debug\netcoreapp3.1\ImageEditor.genruntimeconfig.cache
